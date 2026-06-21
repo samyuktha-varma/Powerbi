@@ -15,7 +15,6 @@ All project files are neatly organized inside the main `Powerbi` directory:
     *   `cafe.pbix` — Tracks operational metrics, item popularity, and order fulfillment dynamics for food & beverage retail.
     *   `pizza.pbix` — Analyzes specialized transaction details, peak order hours, and category sales velocity.
 *   **`Powerbi/screenshots/`**: Visual interface captures showing the design layouts and core metrics for all 4 project views.
-*   **`Powerbi/media/`**: Contains the full screen-recorded walkthrough video showing the dynamic cross-filtering and interactions in action.
 
 *Note: The raw datasets are compressed and fully embedded directly within the `.pbix` files, so you can explore the entire data model, relationships, and DAX measures immediately upon opening the files.*
 
